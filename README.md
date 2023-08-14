@@ -10,7 +10,9 @@ The repo contains 4 jupyter notebooks
 In order to work it is assumed that a version of python3 is installed. If this the case do the following
 
 ```
-git clone
+git clone https://github.com/jannes002A/ml-workshop-101.git
+
+cd workshop
 
 python3 -m venv ws
 
