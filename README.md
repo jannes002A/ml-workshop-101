@@ -31,5 +31,5 @@ You should now be able to access the notebooks.
 
 
 ------------
-Especially the `NN_in_python` notebook was taken from here [SkalskiP][https://github.com/SkalskiP/ILearnDeepLearning.py/blob/master/01_mysteries_of_neural_networks/03_numpy_neural_net/Numpy%20deep%20neural%20network.ipynb ]
+Especially the `NN_in_python` notebook was taken from here [SkalskiP](https://github.com/SkalskiP/ILearnDeepLearning.py/blob/master/01_mysteries_of_neural_networks/03_numpy_neural_net/Numpy%20deep%20neural%20network.ipynb)
 Thanks for this cool work!
